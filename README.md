@@ -1,5 +1,5 @@
 ### Hola, mi nombre es Leonardo Lemos
-#### soy desarrollador web Full Stack
+#### Full Stack web Developer
 ![soy desarrollador web Full Stack](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4r8Bi5NFc9DT8kFD5A-ujXANl4AecKdN5rhPpnFluYJPmSh8V3-CL1dyAzOyJ_kuelQ&usqp=CAU)
 
 Me encanta pensar en soluciones para los problemas del mundo actual y me apasiona el estar constantemente  investigando y aprendiendo nuevas cosas.
